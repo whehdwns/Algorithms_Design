@@ -27,9 +27,8 @@ void Merge(int arr[], int low, int  mid, int high) {
 		msearch[k++] = arr[j++];
 	for (k = 0, i = low; i <= high; ++i, ++k)
 		arr[i] = msearch[k];
-
-	delete[]msearch;
 }
+
 void merges(int arr[], int low, int high) {
 	int mid;
 	if (low < high) {
