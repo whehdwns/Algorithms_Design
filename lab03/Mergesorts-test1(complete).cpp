@@ -10,32 +10,34 @@ void printsort(int arr[], int n) {
 	}
 }
 
-void Merge(int arr[], int lo, int  mi, int hi) {
-	int *temp = new int[hi - lo + 1];
-	int i = lo, j = mi + 1;
+void Merge(int arr[], int low, int  mid, int high) {
+	int *msearch = new int[high - low + 1];
+	int i = low, j = mid + 1;
 	int k = 0;
-	while (i <= mi && j <= hi) {
+	
+	while (i <= mid && j <= high) {
 		if (arr[i] <= arr[j])
-			temp[k++] = arr[i++];
+			msearch[k++] = arr[i++];
 		else
-			temp[k++] = arr[j++];
+			msearch[k++] = arr[j++];
 	}
-	while (i <= mi)
-		temp[k++] = arr[i++];
-	while (j <= hi)
-		temp[k++] = arr[j++];
-	for (k = 0, i = lo; i <= hi; ++i, ++k)
-		arr[i] = temp[k];
+	while (i <= mid)
+		msearch[k++] = arr[i++];
+	while (j <= high)
+		msearch[k++] = arr[j++];
+	for (k = 0, i = low; i <= high; ++i, ++k)
+		arr[i] = msearch[k];
 
-	delete[]temp;
+	delete[]msearch;
 }
-void merges(int arr[], int lo, int hi) {
+void merges(int arr[], int low, int high) {
 	int mid;
-	if (lo < hi) {
-		mid = (lo + hi) >> 1;
-		merges(arr, lo, mid);
-		merges(arr, mid + 1, hi);
-		Merge(arr, lo, mid, hi);
+	if (low < high) {
+		mid = (low + high) >> 1;
+		
+		merges(arr, low, mid);
+		merges(arr, mid + 1, high);
+		Merge(arr, low, mid, high);
 	}
 }
 void MergeSort(int arr[], int arr_size) {
