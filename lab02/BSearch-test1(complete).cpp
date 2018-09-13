@@ -25,7 +25,7 @@ int main() {
 
 	int size;
 	cin >> size;
-	int *arr = new int[n];
+	int *arr = new int[size];
 	int value = 0;
 	cin >> value;
 	for (int i = 0; i < size; i++)
