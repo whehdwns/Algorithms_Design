@@ -1,0 +1,2 @@
+Binary search is faster than linear search only if testing multiple times.
+Short time: linear seartch is faster than binary search
