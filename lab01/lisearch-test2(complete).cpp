@@ -1,7 +1,7 @@
+//whehdwns
 #include <iostream>
 #include <stdlib.h>
 #include <string>
-#include <vector>
 using namespace std;
 
 int linearSearch(int *arr, int size, int value) {
