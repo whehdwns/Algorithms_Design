@@ -20,8 +20,8 @@ int maxcrossingsubarray(int arr[], int low, int mid, int high){
 	}
 	sum = 0;
 	int right_sum = INT_MIN;
-	for (int i = mid + 1; i <= high; i++) {
-		sum = sum + arr[i];
+	for (int j = mid + 1; j <= high; j++) {
+		sum = sum + arr[j];
 		if (sum > right_sum) {
 			right_sum = sum;
 		}
