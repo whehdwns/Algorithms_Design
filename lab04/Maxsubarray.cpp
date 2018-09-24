@@ -1,4 +1,5 @@
 //whehdwns
+Page 71 and 72 from textbook
 #include <iostream>
 #include <stdlib.h>
 #include <string>
