@@ -1,4 +1,5 @@
 //whehdwns
+//pg 26 from textbook
 #include <iostream>
 #include <stdio.h>
 #include <math.h>
