@@ -1,0 +1,7 @@
+Lab00 - Insertion sort
+Lab01 - Linear Search
+Lab02 - Binary Search
+Lab03 - Merge Sort
+Lab04 - Max Subarray
+Lab05 - Heap Sort
+Lab06 - Qucik Sort
