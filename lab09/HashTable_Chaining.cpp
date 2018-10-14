@@ -1,7 +1,6 @@
+//whehdwns
+
 //pg 258
-//http://www.dcs.gla.ac.uk/~pat/52233/slides/Hashing1x1.pdf
-//http://www.cplusplus.com/reference/vector/vector/begin/
-//http://www.cplusplus.com/reference/sstream/stringstream/str/
 //
 //
 
