@@ -1,7 +1,4 @@
-//reference
-//http://www.martinbroadhurst.com/concatenate-two-vectors-in-c.html
-//https://www2.hawaii.edu/~nodari/teaching/s17/Notes/Topic-10.html
-//https://www.slideshare.net/shimulsakhawat/bucket-sort
+//whehdwns
 #include <iostream>
 #include<cstdlib>
 #include<cmath>
