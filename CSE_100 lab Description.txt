@@ -5,3 +5,6 @@ Lab03 - Merge Sort
 Lab04 - Max Subarray
 Lab05 - Heap Sort
 Lab06 - Quick Sort
+Lab07 - Radix Sort with Counting Sort
+Lab08 - Bucket Sort with Insertion Sort/ Quick Sort/ Merge Sort
+Lab09 - Hash Table with chaining
