@@ -1,1 +1,2 @@
-Lab
+Bucketsort
+  Insertion is faster than other sorting algorithms when there are <15 items in the bucket
