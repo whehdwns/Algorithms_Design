@@ -1,3 +1,6 @@
+Binary search is faster than linear search only if testing multiple times.
+Short time: linear seartch is faster than binary search
+
 Bucketsort
   Insertion is faster than other sorting algorithms when there are <15 items in the bucket
 
