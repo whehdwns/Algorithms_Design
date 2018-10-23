@@ -1,7 +1,5 @@
-//https://www.geeksforgeeks.org/stdstringcompare-in-c/
-//https://www.tutorialspoint.com/cplusplus/cpp_member_operators.htm
-//https://www.geeksforgeeks.org/c-classes-and-objects/
-//https://www.ius.edu.ba/sites/default/files/u1251/6._tree-traversals.pdf
+//whehdwns
+
 //INORDER_TREE_WALK		pg 288
 //TREE_SEARCH			pg 290
 //ITERATIVE_TREE_SEARCH	pg 291
