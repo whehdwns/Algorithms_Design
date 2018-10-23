@@ -9,3 +9,4 @@ Lab07 - Radix Sort with Counting Sort
 Lab08 - Bucket Sort with Insertion Sort/ Quick Sort/ Merge Sort
 Lab09 - Hash Table with chaining
 Lab10 - Hash Table with Open Addressing with Double Hashing
+Lab11 - Binary Search Trees
