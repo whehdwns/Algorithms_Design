@@ -1,7 +1,7 @@
-//matrix multiply		      pg 371
+//matrix multiply		   	pg 371
 
-//Matrix_Chain - order	  pg 375
-//print optimal parens	  pg 377
+//Matrix_Chain - order	  		pg 375
+//print optimal parens	  		pg 377
 
 //Used pseudocode from textbook
 //11/8/2018
