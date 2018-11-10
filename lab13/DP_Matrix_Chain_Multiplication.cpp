@@ -13,6 +13,7 @@
 
 using namespace std;
 
+vector<vector<int> >s;
 void PRINT_OPTIMAL_PARENS(vector<vector<int> > s, int i, int j)
 {
 	if (i == j) {
@@ -31,7 +32,6 @@ void PRINT_OPTIMAL_PARENS(vector<vector<int> > s, int i, int j)
 void MATRIX_CHAIN_ORDER(int arr[], int size) 
 {
 	int m[size+1][size];
-	vector<vector<int> >s;
 	s.resize(size, vector<int>(size+1));
 
 	for (int i = 1; i <=size; i++)
