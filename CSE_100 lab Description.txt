@@ -10,3 +10,5 @@ Lab08 - Bucket Sort with Insertion Sort/ Quick Sort/ Merge Sort
 Lab09 - Hash Table with chaining
 Lab10 - Hash Table with Open Addressing with Double Hashing
 Lab11 - Binary Search Trees
+Lab12 - Rod Cutting
+Lab13 - Dynamic Programming: Matrix Chain Multiplication
