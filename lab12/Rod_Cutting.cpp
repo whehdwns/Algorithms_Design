@@ -1,10 +1,10 @@
-//Cut_rod						pg 363
+//Cut_rod					pg 363
 //Memorize_cut_rod				pg 365
-//Memorize_cut_rod_aux			pg 366
+//Memorize_cut_rod_aux				pg 366
 //Bottom_up_cut_rod				pg 366
 
-//Exteneded bottom up cut rod	pg 369
-//Print cut rod solution		pg 369
+//Exteneded bottom up cut rod			pg 369
+//Print cut rod solution			pg 369
 //Used pseudocode from textbook
 //11/8/2018
 
