@@ -1,10 +1,6 @@
+//whehdwns
+
 //Huffman Code		pg 431
-
-//https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
-//http://www.cplusplus.com/reference/vector/vector/erase/
-//https://www.technical-recipes.com/2011/priority-queues-and-min-priority-queues-in-c/
-//http://www.cplusplus.com/reference/cstdio/fgetc/
-
 
 #include <iostream>
 #include <string>
