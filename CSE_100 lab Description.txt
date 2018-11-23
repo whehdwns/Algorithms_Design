@@ -13,3 +13,5 @@ Lab11 - Binary Search Trees
 Lab12 - Rod Cutting
 Lab13 - Dynamic Programming: Matrix Chain Multiplication
 Lab14 - Huffman Codes
+Lab15 - Graphs: read/print graph; graph ops (BFS)
+Lab16 - Minimum Spanning Tree
