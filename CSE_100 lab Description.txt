@@ -12,3 +12,4 @@ Lab10 - Hash Table with Open Addressing with Double Hashing
 Lab11 - Binary Search Trees
 Lab12 - Rod Cutting
 Lab13 - Dynamic Programming: Matrix Chain Multiplication
+Lab14 - Huffman Codes
