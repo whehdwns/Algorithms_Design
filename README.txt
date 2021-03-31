@@ -1,4 +1,4 @@
-CSE 100 - Algorithm Design and Analysis
+CSE 100 - Algorithm Design and Analysis (C++)
 
 Lab00 - Insertion sort
 Lab01 - Linear Search
